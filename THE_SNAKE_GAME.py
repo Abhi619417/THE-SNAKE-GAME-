@@ -2,6 +2,7 @@ import pygame,sys
 import time
 import random
 
+
 # initializing the window
 pygame.init()
 
